@@ -3137,6 +3137,18 @@
           "url": "https://github.com/doitintl/bigquery-grafana"
         }
       ]
+    },
+    {
+      "id": "cloudstats-datasource",
+      "type": "datasource",
+      "url": "https://github.com/cloudstats-app/grafana-cloudstats-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "bd1bd2512d5aa57377da46f5dcb70d750c262359",
+          "url": "https://github.com/cloudstats-app/grafana-cloudstats-datasource"
+        }
+      ]
     }
   ]
 }
